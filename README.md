@@ -40,10 +40,12 @@ Before Renaming
 - img3.jpg
 
 After Renaming
+```backtick
 🔄 img1.jpg → file_1.txt
 🔄 img2.jpg → file_2.txt
 🔄 img3.jpg → file_3.txt
 ✅ Renaming completed.
+```
 
 📊 Current files in folder:
 - file_1.txt
@@ -51,11 +53,12 @@ After Renaming
 - file_3.txt
 
 Reset Back to Original
+```backtick
 ⏪ file_1.txt → img1.jpg
 ⏪ file_2.txt → img2.jpg
 ⏪ file_3.txt → img3.jpg
 ✅ Reset completed.
-
+```
 
 
 # 📂 Project Structure
