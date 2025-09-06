@@ -27,11 +27,10 @@ It also allows you to **reset the files back to their original names**.
 
 python file_renamer.py
 
-
+---
 
 
 # 📋 Example Run
-
 
 Before Renaming
 📊 Current files in folder:
@@ -59,7 +58,7 @@ Reset Back to Original
 ⏪ file_3.txt → img3.jpg
 ✅ Reset completed.
 ```
-
+---
 
 # 📂 Project Structure
 ```markdown
