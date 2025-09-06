@@ -28,7 +28,7 @@ It also allows you to **reset the files back to their original names**.
 python file_renamer.py
 
 
-📋 Example Run
+# 📋 Example Run
 Before Renaming
 
 📊 Current files in folder:
@@ -58,9 +58,11 @@ Reset Back to Original
 ✅ Reset completed.
 
 
-📂 Project Structure
 
+#📂 Project Structure
+```markdown
 .
 ├── file_renamer.py   # Main script
 ├── test_files/       # Folder containing files to rename
 └── README.md         # Project documentation
+```
