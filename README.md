@@ -24,14 +24,14 @@ It also allows you to **reset the files back to their original names**.
 2. Place your files inside a folder (e.g., test_files/).
 
 3. Run the script:
-
-python file_renamer.py
-
+   ```bash
+   python file_renamer.py
+   ```
 ---
 
 
 # 📋 Example Run
-
+```backtick
 Before Renaming
 📊 Current files in folder:
 - img1.jpg
@@ -39,12 +39,10 @@ Before Renaming
 - img3.jpg
 
 After Renaming
-```backtick
 🔄 img1.jpg → file_1.txt
 🔄 img2.jpg → file_2.txt
 🔄 img3.jpg → file_3.txt
 ✅ Renaming completed.
-```
 
 📊 Current files in folder:
 - file_1.txt
@@ -52,7 +50,6 @@ After Renaming
 - file_3.txt
 
 Reset Back to Original
-```backtick
 ⏪ file_1.txt → img1.jpg
 ⏪ file_2.txt → img2.jpg
 ⏪ file_3.txt → img3.jpg
@@ -60,7 +57,7 @@ Reset Back to Original
 ```
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```markdown
 .
 ├── file_renamer.py   # Main script
