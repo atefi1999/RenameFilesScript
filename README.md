@@ -6,6 +6,7 @@ It also allows you to **reset the files back to their original names**.
 ---
 
 ## 🚀 Features
+
 - 🔄 Rename all files with a prefix (e.g., `file_1.txt`, `file_2.txt`, …)  
 - ⏪ Reset renamed files to their original names  
 - 📊 Show summary of current files in the folder  
@@ -17,7 +18,7 @@ It also allows you to **reset the files back to their original names**.
 
 1. Clone the repository or copy the script:
    ```bash
-   git clone https://github.com/USERNAME/RenameFilesScript.git
+   git clone https://github.com/atefi1999/RenameFilesScript.git
    cd RenameFilesScript
    ```
 
@@ -28,9 +29,8 @@ It also allows you to **reset the files back to their original names**.
    python file_renamer.py
    ```
 ---
+## 📋 Example Run
 
-
-# 📋 Example Run
 ```backtick
 Before Renaming
 📊 Current files in folder:
