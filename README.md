@@ -26,7 +26,7 @@ It also allows you to **reset the files back to their original names**.
 
 3. Run the script:
    ```bash
-   python file_renamer.py
+   python rename_files_script.py
    ```
 ---
 ## 📋 Example Run
@@ -60,7 +60,7 @@ Reset Back to Original
 ## 📂 Project Structure
 ```markdown
 .
-├── file_renamer.py   # Main script
+├── rename_files_script.py   # Main script
 ├── test_files/       # Folder containing files to rename
 └── README.md         # Project documentation
 ```
